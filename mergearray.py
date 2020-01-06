@@ -1,3 +1,6 @@
+#Two arrays merged in ascending order
+#ex- arr=[1 ,2 ,4,6, 8 ]
+# arr1 = [3,5,6,7]
 
 def place(arr,m):
     n = len(arr)
