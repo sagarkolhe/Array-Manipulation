@@ -21,6 +21,6 @@ def missing (arr,n):
     return miss
     
 n =10
-arr = [1,2,3,4,6,7,8,9,10]
+arr = [1,2,3,5,6,7,8,9,10]
 print(missing(arr,n))
 
